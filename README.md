@@ -17,6 +17,12 @@ Please click the image to watch the Youtube video. For Bilibili users, click [he
 
 ## Recent Update
 
+**`2020-04-27`**: InsightFace pretrained models and MS1M-Arcface are now specified as the only external training dataset, for iQIYI iCartoonFace challenge, see detail [here](http://challenge.ai.iqiyi.com/detail?raceId=5def71b4e9fcf68aef76a75e).
+
+**`2020.02.21`**: Instant discussion group created on QQ with group-id: 711302608. For English developers, see install tutorial [here](https://github.com/deepinsight/insightface/issues/1069).
+
+**`2020.02.16`**: RetinaFace now can detect faces with mask, for anti-CoVID19, see detail [here](https://github.com/deepinsight/insightface/tree/master/RetinaFaceAntiCov)
+
 **`2019.08.10`**: We achieved 2nd place at [WIDER Face Detection Challenge 2019](http://wider-challenge.org/2019.html).
 
 **`2019.05.30`**: [Presentation at cvmart](https://pan.baidu.com/s/1v9fFHBJ8Q9Kl9Z6GwhbY6A)
@@ -217,7 +223,7 @@ For single cropped face image(112x112), total inference time is only 17ms on our
 - Caffe: [arcface-caffe](https://github.com/xialuxi/arcface-caffe)
 - Caffe: [CombinedMargin-caffe](https://github.com/gehaocool/CombinedMargin-caffe)
 - Tensorflow: [InsightFace-tensorflow](https://github.com/luckycallor/InsightFace-tensorflow)
-
+- TensorRT: [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
 
 ## Face Alignment
 
